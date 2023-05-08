@@ -6,11 +6,11 @@ Rotinas de Validação
 Descreva as principais funções de validação necessárias ao seu projeto
 
 ## Validação de CPF (Todos)
-###  Aceitar somente dígitos, sem pontos ou traços
-###  Verificar se o CPF é válido (regras de validação)
-###  Recebe o CPF no formato texto e devolve 0 ou 1
-###  Assinatura da função
-###  int valida_cpf(char *);
+#### Aceitar somente dígitos, sem pontos ou traços
+#### Verificar se o CPF é válido (regras de validação)
+#### Recebe o CPF no formato texto e devolve 0 ou 1
+#### Assinatura da função
+#### int valida_cpf(char *);
 
 ## Validação de CNPJ
 Aceitar somente dígitos, sem pontos ou traços
