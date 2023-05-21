@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/mathe/OneDrive/Área de Trabalho/biblioteca_validacao_c",
-      "program": "c:/Users/mathe/OneDrive/Área de Trabalho/biblioteca_validacao_c/build/Debug/outDebug",
+      "cwd": "c:/Users/mathe/OneDrive/Área de Trabalho/biblioteca_validacao_c-1",
+      "program": "c:/Users/mathe/OneDrive/Área de Trabalho/biblioteca_validacao_c-1/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
